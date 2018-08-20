@@ -1,1 +1,3 @@
-Laravel_Charts
+# LaravelCharts
+
+## Simple application display charts using Laravel
